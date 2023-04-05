@@ -1,0 +1,17 @@
+public class AvagadroesNum{
+public static void main(String[] args){
+
+int n=153;
+
+String str = str(n);
+int
+
+for(n in str)
+ 
+
+
+
+
+
+}
+}
